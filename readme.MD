@@ -24,7 +24,7 @@ The TalentScout Hiring Assistant is an intelligent Streamlit-based chatbot desig
 
 1. **Clone the Repository:**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/zaibreyaz/TalentScout.git
    cd TalentScout
    ```
 

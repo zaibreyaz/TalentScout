@@ -1,0 +1,52 @@
+[
+    {
+        "question": "What is TensorFlow used for?",
+        "options": [
+            "Machine Learning",
+            "Deep Learning",
+            "Neural Networks",
+            "Big Data"
+        ],
+        "category": "Python"
+    },
+    {
+        "question": "What is Pandas used for?",
+        "options": [
+            "Data Analysis",
+            "Data Visualization",
+            "Data Storage",
+            "Data Manipulation"
+        ],
+        "category": "Python"
+    },
+    {
+        "question": "What is Numpy used for?",
+        "options": [
+            "Linear Algebra",
+            "Calculus",
+            "Statistics",
+            "Data Science"
+        ],
+        "category": "Python"
+    },
+    {
+        "question": "How do you implement a neural network in TensorFlow?",
+        "options": [
+            "Using Keras",
+            "Using PyTorch",
+            "Implementing from scratch",
+            "Using Scikit-Learn"
+        ],
+        "category": "TensorFlow"
+    },
+    {
+        "question": "What is the difference between Pandas and NumPy?",
+        "options": [
+            "Pandas is faster than NumPy",
+            "NumPy is faster than Pandas",
+            "Pandas is used for data analysis while NumPy is used for numerical computations",
+            "Both are used for data science"
+        ],
+        "category": "Python"
+    }
+]
